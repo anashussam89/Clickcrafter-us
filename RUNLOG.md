@@ -28,3 +28,15 @@ do not repeat. Append a new row at the top on every run.
   This is an account entitlement issue, not a prompt problem.
 - **Store URL:** https://clickcrafters-us.com — the product brief does not carry a
   link, so the caption uses the official store found for the ClickCrafters brand.
+
+## 2026-10-06 run artifacts
+
+- **Video (Seedance, 9:16, 720p, 14.08s, native audio):**
+  `https://d8j0ntlcm91z4.cloudfront.net/user_3ECe42dMPbcksPXv9LgzY2fgZuJ/hf_20261006_111848_f40df4a9-eed2-4937-beb8-0fbf3c217664.mp4`
+- **References:** all 9 repo images, hero `Air Purifier IMG4` (clear monochrome,
+  front-on), `@image_2` = `Air Purifier IMG2` (logo macro), `@image_3` =
+  `Air Purifier IMG3` (three-quarter angle).
+- **Buffer posts** (one render reused for both, queued to each channel's next slot):
+  - TikTok `clickcraftters` — post `6ac4db4dd2b2583c5a3e9317`, due 2026-10-06 11:44 UTC
+  - Instagram `clickcraftersus` (Reel, shared to feed) — post `6ac4db56643068755bb1f318`, due 2026-10-06 21:23 UTC
+- Both posts flagged `isAiGenerated: true`.
