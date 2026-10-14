@@ -117,3 +117,20 @@ was inferred from the repo name and brand. Replace before posting if incorrect.
 8. All 9 repo images in `medias`, hero first, @image_1/2/3 referenced across the beats — yes ·
 9. Params `seedance_2_0` + `mode: fast` + 720p + 9:16 + 14s — sent as specified
    (server coerces `fast` → `std` until fast mode is enabled on the account).
+
+---
+
+## Phase 3 — Buffer targets (verified live, read-only)
+
+Organization: **My Organization** (`69f366a0237ef02c98a15d61`) · timezone America/New_York ·
+scheduled-post limit 10.
+
+| Platform | Handle | channelId | Connected |
+|---|---|---|---|
+| TikTok | `clickcraftters` | `69f366d15c4c051afaf72730` | yes |
+| Instagram | `clickcraftersus` | `6a20346cc687a22dd4577385` | yes |
+
+The org also holds an Instagram channel `ai_fahm` (`6acd68f7778b240e2feee369`) — **not** this brand,
+do not post to it.
+
+Post the single Seedance video to both channels with `create_post` (`addToQueue`), same caption.
